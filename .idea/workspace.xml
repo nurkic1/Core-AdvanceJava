@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c41fa67f-0ece-47b2-aeba-464209eabf34" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/three/ArithmeticDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/BitOperators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/ComparisonDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/ConditionalDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/ObjectTypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/Question.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/Question2Demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/StringDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/three/UnaryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/IfElseDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/BlockDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/SwitchCaseWithoutBreakDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/SwitchCharDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/SwitchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/SwitchDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/SwitchDemoNewJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/SwitchDemoString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Four/flow/SwitchDemoYield.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -52,6 +54,11 @@
 }]]></component>
   <component name="Push.Settings">
     <option name="SHOW_DETAILS_PANEL" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Four.FLOW" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -118,7 +125,21 @@
       <option name="project" value="LOCAL" />
       <updated>1675112141692</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Alal vera ceo blok">
+      <created>1675112660049</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1675112660049</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Alal vera ceo blok">
+      <created>1675112707233</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675112707233</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
